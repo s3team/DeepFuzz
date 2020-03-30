@@ -1,0 +1,6 @@
+## DeepFuzz
+
+* run.sh is used to crawl training data from gcc.
+* pre.py is used to prepare training data.
+* train.py is used to train a s2s model.
+* generate.py is used to generate new programs with trained model.
